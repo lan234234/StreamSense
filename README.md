@@ -13,23 +13,32 @@ Visit us at: [StreamSense](https://xqhpimfpda.us-east-2.awsapprunner.com/)
 Explore screenshots from StreamSense showcasing each of our core features:
 
 ### Authentication
-![Authentication Process](.github/images/authentication.jpg)
-*The authentication screen where users can register, login, and logout.*
+#### Register
+![Authentication Process](.github/images/1_register.png)
+
+#### Login
+![Authentication Process](.github/images/3_login.png)
+
+#### Logout
+![Authentication Process](.github/images/4_logout.png)
 
 ### Content Discovery
-![Content Discovery](.github/images/content-discovery.jpg)
+![Content Discovery](.github/images/5_searchGame.png)
 *Search interface for finding live streams, videos, and clips of games.*
 
 ### Top Games
-![Top Games](.github/images/top-games.jpg)
+![Top Games](.github/images/6_topGame.png)
 *View the list of top trending games sourced from Twitch.*
 
 ### Favorite Game Resources
-![Favorite Resources](.github/images/favorites.jpg)
-*Interface for users to mark and review their favorite streams, videos, and clips.*
+![Favorite Resources](.github/images/7_addFavorite.png)
+*Interface for users to mark and delete their favorite streams, videos, and clips.*
+
+![Favorite Resources](.github/images/7_favoriteHistory.png)
+*Interface for users to review their favorite streams, videos, and clips.*
 
 ### Recommendations
-![Recommendations](.github/images/recommendations.jpg)
+![Recommendations](.github/images/8_recommendation.png)
 *Personalized game and stream recommendations based on user preferences.*
 
 ## Technologies Used
