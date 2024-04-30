@@ -52,6 +52,7 @@ Explore screenshots from StreamSense showcasing each of our core features:
 - **AntDesign:** UI framework for designing elegant and responsive components.
 - **AWS:** Cloud platform used for hosting and managing services.
 - **Caffeine:** Caching library to enhance performance.
+- **Session-based Authentication:** Method for securing user sessions and data.
 
 ## License
 MIT License
