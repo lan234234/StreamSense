@@ -1,6 +1,6 @@
 # StreamSense
 ## _A Personalized Live Game Stream Search and Recommendation Engine_
-Visit us at: [StreamSense](https://xqhpimfpda.us-east-2.awsapprunner.com/)
+Visit us at: [StreamSense](https://edq8x8cbc2.us-east-2.awsapprunner.com/)
 
 ## Features
 - **Authentication:** Register, login, and logout capabilities to secure user profiles.
