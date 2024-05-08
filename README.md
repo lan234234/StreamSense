@@ -50,7 +50,9 @@ Explore screenshots from StreamSense showcasing each of our core features:
 - **React:** A JavaScript library for building user interfaces.
 - **Node.js:** JavaScript runtime for building scalable network applications.
 - **AntDesign:** UI framework for designing elegant and responsive components.
-- **AWS (RDS, ECR, App Runner):** Cloud platform used for hosting and managing services.
+- **AWS RDS:** Managed relational database service to host MySQL databases, providing automated backups, scaling, and security.
+- **AWS ECR:** Fully managed container registry that stores Docker images, enabling fast and secure deployments.
+- **AWS App Runner:** Fully managed service to quickly deploy and scale containerized applications directly from ECR or source code repositories.
 - **Caffeine:** Caching library to enhance performance.
 - **Session-based Authentication:** Method for securing user sessions and data.
 
