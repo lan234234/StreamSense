@@ -50,7 +50,7 @@ Explore screenshots from StreamSense showcasing each of our core features:
 - **React:** A JavaScript library for building user interfaces.
 - **Node.js:** JavaScript runtime for building scalable network applications.
 - **AntDesign:** UI framework for designing elegant and responsive components.
-- **AWS:** Cloud platform used for hosting and managing services.
+- **AWS (RDS, ECR, App Runner):** Cloud platform used for hosting and managing services.
 - **Caffeine:** Caching library to enhance performance.
 - **Session-based Authentication:** Method for securing user sessions and data.
 
