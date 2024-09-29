@@ -1,6 +1,8 @@
-# StreamSense
-## _A Personalized Live Game Stream Search and Recommendation Engine_
-Visit us at: [StreamSense](https://edq8x8cbc2.us-east-2.awsapprunner.com/)
+# StreamSense: Personalized Live Stream Search and Recommendations
+
+**StreamSense** helps you discover and enjoy live game streams by providing personalized recommendations and an intuitive search experience.
+
+Visit StreamSense: [StreamSense](https://edq8x8cbc2.us-east-2.awsapprunner.com/)
 
 ## Features
 - **Authentication:** Register, login, and logout capabilities to secure user profiles.
@@ -42,19 +44,19 @@ Explore screenshots from StreamSense showcasing each of our core features:
 *Personalized game and stream recommendations based on user preferences.*
 
 ## Technologies Used
-- **Spring Boot:** Framework for building Java applications.
-- **Java:** Primary programming language for backend development.
-- **MySQL:** Database for storing user data and application data.
-- **Docker:** Container platform for simplifying deployment.
-- **HTML, CSS, JavaScript:** Core technologies for building web frontends.
-- **React:** A JavaScript library for building user interfaces.
-- **Node.js:** JavaScript runtime for building scalable network applications.
-- **AntDesign:** UI framework for designing elegant and responsive components.
-- **AWS RDS:** Managed relational database service to host MySQL databases, providing automated backups, scaling, and security.
-- **AWS ECR:** Fully managed container registry that stores Docker images, enabling fast and secure deployments.
-- **AWS App Runner:** Fully managed service to quickly deploy and scale containerized applications directly from ECR or source code repositories.
-- **Caffeine:** Caching library to enhance performance.
-- **Session-based Authentication:** Method for securing user sessions and data.
+- **Spring Boot (Java):** Backend development framework and primary programming language.
+- **MySQL with AWS RDS:** Database for user and application data hosted on AWS.
+- **Docker:** Simplifies deployment for efficient containerization.
+- **React (HTML, CSS, JavaScript):** JavaScript library and core technologies for building the frontend.
+- **Node.js:** JavaScript runtime environment for network applications.
+- **Ant Design:** UI framework for designing responsive user interfaces.
+- **AWS Service:** 
+    - **ECR:** Container registry for storing Docker images.
+    - **App Runner:** Manages deployment of containerized applications.
+- **Caffeine:** Caching library for performance optimization.
+- **Session-based Authentication:** Secures user sessions and data.
+
+
 
 ## License
 MIT License
